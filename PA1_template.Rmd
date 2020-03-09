@@ -1,8 +1,9 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: "Weilin Zhou"
 output: 
-  html_document:
-    keep_md: true
+    html_document:
+        keep_md: true
 ---
 
 This is my analysis of activity monitoring data.
